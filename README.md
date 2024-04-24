@@ -6,4 +6,4 @@
 # YouTube:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kj9FUXEteMI/0.jpg)](https://www.youtube.com/watch?v=kj9FUXEteMI)
 
-# All tutorials are available on [Medium.com](https://veldan1202.medium.com/physical-light-8dce7169ba8d)
+# How to create and adjust light is written in this article on [Medium.com](https://veldan1202.medium.com/physical-light-8dce7169ba8d)
